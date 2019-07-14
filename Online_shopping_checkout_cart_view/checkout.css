@@ -1,0 +1,132 @@
+.container{
+    display: flex;
+    margin: 5%;
+
+}
+.main{
+    display: flex;
+    border:1px solid Gainsboro;
+    flex-grow: 7;
+    flex-direction:column;
+    background: WhiteSmoke;
+    padding: 0% 5% 1%;
+}
+.input_area{
+    display: flex;
+}
+.billing_address{
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    width: 50%;
+
+}
+.billing_address>div{
+     margin: 7px;
+ }
+.state_zip{
+    display: flex;
+}
+.State{
+    flex-grow: 5;
+}
+.Zip{
+    flex-grow: 5;
+}
+
+
+
+.payment{
+    display: flex;
+    flex: auto;
+    flex-direction:column;
+    margin-left: 5%;
+    width: 50%;
+}
+.payment>div{
+    margin:7px;
+}
+.Accepted_Card{
+    margin-top: 7px;
+    margin-bottom: 4px;
+}
+.Exp_year_CVV{
+    display: flex;
+}
+.Exp_Year{
+    flex-grow: 5;
+}
+.CVV{
+    flex-grow: 5;
+
+}
+
+.checkbox_content{
+    display: flex;
+    align-items:center;
+}
+
+.button_style{
+    background: dimgray;
+    height: 35px;
+    color: white;
+}
+
+.cart{
+    display: flex;
+    flex-grow: 3;
+    flex-direction: column;
+    border:1px solid Gainsboro;
+    margin-left: 2.5%;
+    padding: 0% 1% 0% 1%;
+    background-color:WhiteSmoke;
+}
+
+.cart_head{
+    display: inline-flex;
+    align-items: center;
+}
+
+.item-count > div{
+    display: flex;
+}
+
+.cart-left{
+    flex-grow: 9;
+    flex: auto;
+}
+.item-count >div >.cart-left{
+    color: dodgerblue ;
+}
+
+.cart_right{
+    flex-grow: 1;
+    flex: auto;
+}
+.item-count >div >.cart-right{
+    color: dimgray;
+}
+
+.item-count{
+    display: flex;
+    flex-direction: column;
+}
+
+.Total{
+    display:flex;
+    align-items:center;
+}
+
+hr{
+    height: 2px;
+    border: none;
+    border-top: dimgray;
+}
+
+input[type="text"]{
+     width: 100%;
+     height: 20px;
+    margin-top: 3px;
+}
+
+

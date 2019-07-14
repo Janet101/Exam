@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online shopping checkout cart view</title>
+    <link href="checkout.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <div class="input_area">
+                <div class="billing_address">
+                    <h2>Billing Address</h2>
+                    <div>
+                        <i class="fas fa-user"></i>
+                        <b>Full name</b>
+                        <input name="FullName" type="text" placeholder="Janet Wang" >
+                    </div>
+                    <div>
+                        <i class="fas fa-envelope"></i>
+                        <b>Email</b>
+                        <input name="Email" type="text" placeholder="JanetWang@example.com" >
+                    </div>
+                    <div>
+                        <i class="far fa-address-card"></i>
+                        <b>Address</b>
+                        <input name="Address" type="text" placeholder="542 W. 15th Street">
+                    </div>
+                    <div>
+                        <i class="fas fa-university"></i>
+                        <b>City</b>
+                        <input name="City" type="text" placeholder="San Jose">
+                    </div>
+                    <div class="state_zip">
+                        <div class="State">
+                            <b>State</b>
+                            <input name="State" type="text" placeholder="TX" >
+                        </div>
+                        <div class="Zip">
+                            <b>Zip</b>
+                            <input name="Zip" type="text" placeholder="76000" >
+                        </div>
+                    </div>
+                </div>
+
+                <div class="payment">
+                    <h2>Payment</h2>
+
+                    <div>
+                        <b>Accepted Cards</b>
+                        <div class="Accepted_Card">
+                            <i class="fab fa-cc-visa"></i>
+                            <i class="fab fa-cc-amex"></i>
+                            <i class="fab fa-cc-mastercard"></i>
+                            <i class="fab fa-cc-discover"></i>
+                        </div>
+                    </div>
+                    <div>
+                        <b>Name on Card</b>
+                        <input name="Name_on_Card" type="text" placeholder="Jue Wang" >
+                    </div>
+                    <div>
+                        <b>Credit card number</b>
+                        <input name="Credit_card_number" type="text" placeholder="1111-2222-3333-4444" >
+                    </div>
+                    <div>
+                        <b>Exp Month</b>
+                        <input name="Exp_Month" type="text" placeholder="July" >
+                    </div>
+                    <div class="Exp_year_CVV">
+                        <div class="Exp_Year">
+                            <b>Exp Year</b>
+                            <input name="Exp_Year" type="text" placeholder="2019" >
+                        </div>
+                        <div class="CVV">
+                            <b>CVV</b>
+                            <input name="CVV" type="text" placeholder="352" >
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="checkbox_content">
+                <input type="checkbox">
+                <p>Shipping address same as billing</p>
+            </div>
+
+            <input type="button" class="button_style" value="Continue to checkout"></button>
+        </div>
+        <div class="cart">
+            <div class="cart_head">
+                <h2 class="cart-left">Cart</h2>
+                <div class="cart_right">
+                    <i class="fas fa-shopping-cart"></i>
+                    <b>4</b>
+                </div>
+            </div>
+
+            <div class="item-count">
+                <div>
+                    <p class="cart-left">Item 1</p>
+                    <p class="cart-right">$15</p>
+                </div>
+                <div>
+                    <p class="cart-left">Item 2</p>
+                    <p class="cart-right">$5</p>
+                </div>
+                <div>
+                    <p class="cart-left">Item 3</p>
+                    <p class="cart-right">$8</p>
+                </div>
+                <div>
+                    <p class="cart-left">Item 4</p>
+                    <p class="cart-right">$2</p>
+                </div>
+            </div>
+
+            <hr>
+
+            <div class="Total">
+                <p class="cart-left">Total</p>
+                <b class="cart-right">$2</b>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
