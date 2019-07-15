@@ -59,6 +59,7 @@ body {
 }
 
 /* Add arrows to the left container (pointing right) */
+/*左边的三角形*/
 .left::before {
     content: " ";
     height: 0;

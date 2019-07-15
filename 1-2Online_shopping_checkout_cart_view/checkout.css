@@ -28,10 +28,11 @@
     display: flex;
 }
 .State{
-    flex-grow: 5;
+    width: 50%;
+    padding-right: 10%;
 }
 .Zip{
-    flex-grow: 5;
+    width: 50%;
 }
 
 
@@ -54,10 +55,11 @@
     display: flex;
 }
 .Exp_Year{
-    flex-grow: 5;
+    width: 50%;
+    padding-right: 10%;
 }
 .CVV{
-    flex-grow: 5;
+    width: 50%;;
 
 }
 
