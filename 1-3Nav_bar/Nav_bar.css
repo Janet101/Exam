@@ -10,9 +10,7 @@ body{
     align-items:center;
     background: dimgray;
 }
-li:hover{
-    background: limegreen;
-}
+
 i{
     color: white;
 }
@@ -27,6 +25,9 @@ li{
     padding-right: 10px;
     padding-left: 10px;
 }
+li:hover{
+     background: limegreen;
+ }
 span{
      color: white;
      margin-left: 5px;
