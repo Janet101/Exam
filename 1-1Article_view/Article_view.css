@@ -1,0 +1,12 @@
+.view_border{
+    display: flex;
+    width:600px;
+    height: 200px;
+    border:1px solid grey;
+}
+.image_style{
+    display: flex;
+    width:auto;
+    height: auto;
+    padding: 15px;
+}

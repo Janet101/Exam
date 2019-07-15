@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f89c56-792e-43be-b0b0-26c1aa860115" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_line.css" beforeDir="false" afterPath="$PROJECT_DIR$/Time_line.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$net-HTML:CSS.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,7 +49,7 @@
     <session id="1576651143">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -189,12 +187,12 @@
       <workItem from="1563085506159" duration="654000" />
       <workItem from="1563133088414" duration="2113000" />
       <workItem from="1563146011577" duration="3300000" />
-      <workItem from="1563168838917" duration="783000" />
+      <workItem from="1563168838917" duration="943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6850000" />
+    <option name="totallyTimeSpent" value="7010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="175" y="112" width="894" height="710" extended-state="0" />
