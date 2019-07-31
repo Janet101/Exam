@@ -17,7 +17,7 @@ Array.prototype.myReduce = function(fn, initialVal) {
     return accumulator;
 }
 
-//tests
+/*-------------------------test-------------------------*/
 var numbers3 = [20, 20, 2, 3];
 var total = numbers3.myReduce((a, b)=> a + b);
 console.log(total); // 55

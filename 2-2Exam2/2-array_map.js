@@ -24,7 +24,7 @@ Array.prototype.myMap = function(callback) {
 // Function Export
 module.exports = Array;
 
-//test
+/*-------------------------test-------------------------*/
 const array1 = [1, 4, 9, 16];
 const map1 = array1.myMap(x => x * 2);
 console.log(map1);

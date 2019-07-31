@@ -16,9 +16,9 @@ Array.prototype.myfilter =  function (fn) {
 }
 
 // Function Export
-module.exports = Array; //????????????????
+module.exports = Array;
 
-//test
+/*-------------------------test-------------------------*/
 var students = [
     { name: 'Quincy', grade: 96 },
     { name: 'Jason', grade: 84 },
