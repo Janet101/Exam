@@ -1,5 +1,4 @@
 
-//我自己的方法
 Array.prototype.myMap =  function (fn) {
     if (!fn || typeof fn !== 'function') {
         throw new TypeError();
@@ -12,7 +11,7 @@ Array.prototype.myMap =  function (fn) {
     return newArray
 };
 
-/*//用callback
+/*//用callback的方法
 Array.prototype.myMap = function(callback) {
     arr = [];
     for (var i = 0; i < this.length; i++)

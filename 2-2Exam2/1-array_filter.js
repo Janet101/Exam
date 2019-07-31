@@ -2,7 +2,7 @@
 //To define mfilter we must declare the method on Array.protoype.(Otherwise js interpreter will print the TyperError which tells us that mfilter is not a function because it cannot be found in Array.prototype)
 Array.prototype.myfilter =  function (fn) {
 
-    if (!fn || typeof fn !== 'function') {//!fn是啥意思
+    if (!fn || typeof fn !== 'function') {
         throw new TypeError();
     }
 
