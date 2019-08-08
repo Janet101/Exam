@@ -1,0 +1,29 @@
+.grid .cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+    flex-direction: column;
+}
+
+.grid > div {
+    display: flex;
+}
+
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+}
+
+
+

@@ -25,7 +25,6 @@ function typeAheadView(container, model){
     container.addEventListener('keyup', function(e) {
         var keyCode = e.keyCode;
 
-
         if(keyCode === 38) {
             // UP
             model.arrowKey(DIRECTION.UP);
@@ -34,7 +33,6 @@ function typeAheadView(container, model){
             model.arrowKey(DIRECTION.DOWN);
         }
     });
-
 
     function render(data, selected){
         if(!data || !data.length) {
@@ -82,7 +80,7 @@ function model(){
     }
 
     function apiBack(json) {
-        var names = json.results.map(function(item){
+        let names = json.results.map(function(item){
             return item.name;
         });
 
@@ -131,7 +129,7 @@ function debouce(fn, wait) {
 
 
 
-var typeAheadContainer = document.querySelector('.typeahead-container');
-var model = model();
+let i_typeAheadContainer = document.querySelector('.typeahead-container');
+let i_model = model();
 
-typeAheadView(typeAheadContainer, model);
+typeAheadView(i_typeAheadContainer, i_model);

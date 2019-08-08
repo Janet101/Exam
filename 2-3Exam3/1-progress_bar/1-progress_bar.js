@@ -9,7 +9,7 @@ function progressView(container, model){//传model进来有啥意义？
 
     container.innerHTML = '<div class="inner"></div>';//往.progress-bar的标签内插入标签
 
-    model.subscribe(render);//
+    model.subscribe(render);
 
     render();
 }
@@ -37,7 +37,7 @@ function model(){
     _interval = setInterval(_updateData, _SPEED);
 
     return {
-        subscribe: function(cb){ //第一次运行model()，
+        subscribe: function(cb){ //subscribe:function(cb)
             if(!_subscriber) _subscriber = cb;
         }
     }
