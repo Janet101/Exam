@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafc6431-af0a-44fa-ba61-a6bfed195e08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1-progress_bar/1-progress_bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-progress_bar/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="cafc6431-af0a-44fa-ba61-a6bfed195e08" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -171,7 +169,7 @@
     <configuration name="1-progress_bar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2-3Exam3/1-progress_bar.html">
       <method v="2" />
     </configuration>
-    <configuration name="4-Whack_A_mole.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2-3Exam3/4-Whack_A_mole/4-Whack_A_mole.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2-3Exam3/4-Whack_A_mole/index.html">
       <method v="2" />
     </configuration>
     <configuration name="1-progress_bar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1-progress_bar.js" working-dir="$PROJECT_DIR$">
@@ -187,13 +185,13 @@
       <item itemvalue="Node.js.1-progress_bar.js" />
       <item itemvalue="Node.js.5-throttle.js" />
       <item itemvalue="JavaScript Debug.1-progress_bar.html" />
-      <item itemvalue="JavaScript Debug.4-Whack_A_mole.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.4-Whack_A_mole.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.4-Whack_A_mole.js" />
-        <item itemvalue="JavaScript Debug.4-Whack_A_mole.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.1-progress_bar.js" />
         <item itemvalue="Node.js.5-throttle.js" />
         <item itemvalue="JavaScript Debug.1-progress_bar.html" />
@@ -212,12 +210,12 @@
       <updated>1564629226371</updated>
       <workItem from="1564629229088" duration="4216000" />
       <workItem from="1564939183978" duration="4447000" />
-      <workItem from="1565044536781" duration="27741000" />
+      <workItem from="1565044536781" duration="27906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36404000" />
+    <option name="totallyTimeSpent" value="36569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="182" y="37" width="1029" height="810" extended-state="0" />
