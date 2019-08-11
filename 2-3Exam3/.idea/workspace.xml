@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafc6431-af0a-44fa-ba61-a6bfed195e08" name="Default Changelist" comment="" />
+    <list default="true" id="cafc6431-af0a-44fa-ba61-a6bfed195e08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/2-typeahead_input_box/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-typeahead_input_box/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +17,7 @@
     <session id="-1301448143">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.opened" value="3" />
@@ -41,34 +43,34 @@
         <counts>
           <entry key="css" value="66" />
           <entry key="html" value="27" />
-          <entry key="js" value="1312" />
+          <entry key="js" value="1313" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="66" />
           <entry key="HTML" value="27" />
-          <entry key="JavaScript" value="1312" />
+          <entry key="JavaScript" value="1313" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2-typeahead_input_box/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-typeahead_input_box/2-typeahead_input_box.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-417">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="-1103">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -105,6 +107,7 @@
         <option value="$PROJECT_DIR$/4-Whack_A_mole/4-Whack_A_mole.html" />
         <option value="$PROJECT_DIR$/4-Whack_A_mole/4-Whack_A_mole.css" />
         <option value="$PROJECT_DIR$/4-Whack_A_mole/4-Whack_A_mole.js" />
+        <option value="$PROJECT_DIR$/2-typeahead_input_box/index.html" />
         <option value="$PROJECT_DIR$/2-typeahead_input_box/2-typeahead_input_box.js" />
       </list>
     </option>
@@ -140,22 +143,7 @@
             <path>
               <item name="2-3Exam3" type="b2602c69:ProjectViewProjectNode" />
               <item name="2-3Exam3" type="462c0819:PsiDirectoryNode" />
-              <item name="1-progress_bar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2-3Exam3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-3Exam3" type="462c0819:PsiDirectoryNode" />
               <item name="2-typeahead_input_box" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2-3Exam3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-3Exam3" type="462c0819:PsiDirectoryNode" />
-              <item name="3-autocomplete_UI " type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2-3Exam3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-3Exam3" type="462c0819:PsiDirectoryNode" />
-              <item name="4-Whack_A_mole" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,23 +217,22 @@
       <updated>1564629226371</updated>
       <workItem from="1564629229088" duration="4216000" />
       <workItem from="1564939183978" duration="4447000" />
-      <workItem from="1565044536781" duration="28771000" />
+      <workItem from="1565044536781" duration="29418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37434000" />
+    <option name="totallyTimeSpent" value="38081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="182" y="37" width="1029" height="810" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16765873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17378917" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17378917" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,17 +351,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-typeahead_input_box/index.html">
+    <entry file="file://$PROJECT_DIR$/2-typeahead_input_box/2-typeahead_input_box.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="-1103">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-typeahead_input_box/2-typeahead_input_box.js">
+    <entry file="file://$PROJECT_DIR$/2-typeahead_input_box/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
