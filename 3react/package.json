@@ -2,7 +2,7 @@
   "name": "3react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://janet101.github.io/Exam/3react/",
+  "homepage": "https://Janet101.github.io/Exam/3react/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
@@ -15,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --git git"
   },
   "eslintConfig": {
     "extends": "react-app"
